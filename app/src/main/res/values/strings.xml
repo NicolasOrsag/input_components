@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Input Components</string>
+    <string name="text_view_optional">Optional</string>
+
+    <!-- Password Input -->
+    <string name="password_placeholder">Enter your password</string>
+    <string name="show_password">Show password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="password_requirement_length">Minimum 8 characters</string>
+    <string name="password_requirement_uppercase">At least one uppercase letter</string>
+    <string name="password_requirement_number">At least one number</string>
+    <string name="password_requirement_special">At least one special character (? = # / %)</string>
+    <string name="requirement_met">Requirement met</string>
+    <string name="requirement_not_met">Requirement not met</string>
 </resources>
